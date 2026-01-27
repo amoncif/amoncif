@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="assets/banner.png" alt="Banner" />
+</p>
+<p align="center">
   <b>Senior PHP/Symfony</b> • production web products • SQL performance • APIs • CyberArk/PSM integrations
 </p>
 
