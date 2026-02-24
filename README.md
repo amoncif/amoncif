@@ -33,16 +33,3 @@ Application-side development around CyberArk:
 - Multi-criteria search + data correlation, **paginated** and optimized (MS SQL)
 - Reporting
 
----
-
-## Stack
-**Back-end**: PHP 8 • Symfony (6/7) • API Platform • Doctrine • PHPUnit  
-**Data**: MS SQL (T-SQL) • PostgreSQL • MySQL • Redis (when needed) • Elasticsearch (when it makes sense)  
-**Front-end**: Twig • JavaScript • Vue.js • jQuery/Ajax • Bootstrap  
-**Workflow**: Git • PR/MR • CI/CD (GitLab/GitHub) • Agile/Scrum
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amoncif&show_icons=true&hide_border=true" alt="stats" />
-</p>
