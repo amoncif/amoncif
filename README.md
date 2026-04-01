@@ -5,31 +5,82 @@
   <b>Senior PHP/Symfony</b> • production web products • SQL performance • APIs • CyberArk/PSM integrations
 </p>
 
----
+# Moncif Aissaoui
 
-## What I do
-I build and maintain business-oriented web applications:
-- **E-commerce** (checkout/tunnel, performance, reliability)
-- **CRM / business apps** (workflows, roles & permissions, exports, search)
-- **HR apps** (processes, approvals, reporting)
-- **High-traffic websites** (latency, stability, query tuning, application-level caching)
-- Currently: **tooling & integrations around CyberArk / PSM** (privileged access, governance, audit)
+Développeur PHP / Symfony senior  
+APIs • Performance • Applications métier • CyberArk / PSM
 
 ---
 
-## How I work
-- I like **clear contracts**: APIs, DTOs/serialization groups, consistent errors, pagination
-- I treat performance as a feature: **execution plans**, indexes, pagination, N+1 reduction
-- I aim for readable code: naming, small responsibilities, useful tests
-- I can improve legacy systems safely: incremental refactors, “safe changes”, visibility/traceability
+## Ce que je fais
+
+Je développe des applications web faites pour tourner en production, pas juste pour fonctionner en démo.
+
+Je travaille principalement sur :
+
+- des applications métier (CRM, outils internes, workflows)
+- des APIs et des intégrations
+- des systèmes avec beaucoup de données
+- l’amélioration et la maintenance de code existant
 
 ---
 
-## Current mission (CyberArk / PSM)
-Application-side development around CyberArk:
-- API integrations (depending on context), auth flows, traceability
-- Data collection via imports (API/DB) using Symfony Command, Messenger, Scheduler
-- **Governance**: safes / safemembers (ACL), access control checks, reporting
-- Multi-criteria search + data correlation, **paginated** and optimized (MS SQL)
-- Reporting
+## Ma manière de travailler
+
+Je me concentre sur ce qui compte vraiment une fois le projet en ligne :
+
+- du code clair plutôt que “malin”
+- la performance (requêtes, index, pagination, cache)
+- des APIs lisibles et prévisibles
+- du code qu’on peut relire facilement dans 6 mois
+
+Je ne cherche pas à impressionner avec de l’architecture.  
+Je cherche à construire des systèmes qui tiennent dans le temps.
+
+---
+
+## Les sujets sur lesquels j’interviens souvent
+
+- E-commerce (checkout, fiabilité, performance)
+- CRM / outils métier (rôles, workflows, exports, recherche)
+- applications RH (processus, validation, reporting)
+- applications à fort trafic (latence, stabilité, optimisation SQL)
+
+---
+
+## Focus actuel — CyberArk / PSM
+
+Je travaille sur des outils applicatifs autour de la gestion des accès privilégiés :
+
+- intégrations API et authentification
+- collecte de données (Symfony Command, Messenger, Scheduler)
+- gestion des accès (safes, ACL, audit)
+- recherche optimisée multi-critères (MS SQL)
+
+---
+
+## Comment je travaille
+
+- itérations courtes et maîtrisées  
+- évolutions sécurisées sur des projets existants  
+- visibilité sur ce qui se passe (logs, suivi, compréhension)  
+- optimisation quand c’est réellement utile  
+
+---
+
+## Projets
+
+Dans ce dépôt, on trouve notamment :
+
+- un portfolio Symfony reconstruit proprement  
+- une série tutorielle open source (Symfony + API Platform + React)  
+- des implémentations inspirées de cas réels  
+
+---
+
+## Contact
+
+Paris  
+https://wwww.lemoncef.fr  
+https://www.linkedin.com/in/moncifaissaoui/
 
